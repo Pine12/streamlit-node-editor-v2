@@ -1,0 +1,11 @@
+# Ship a minimal metadata file that can be picked up by Streamlit at runtime.
+[project]
+name = "streamlit-node-editor-v2"
+version = "0.0.1"
+dependencies = [
+    "streamlit>=1.50.0",
+]
+
+[[tool.streamlit.component.components]]
+name = "st_node_editor"
+asset_dir = "frontend/build"

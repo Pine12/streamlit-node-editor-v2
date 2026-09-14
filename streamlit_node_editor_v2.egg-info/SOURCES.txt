@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+streamlit_node_editor_v2/__init__.py
+streamlit_node_editor_v2/pyproject.toml
+streamlit_node_editor_v2.egg-info/PKG-INFO
+streamlit_node_editor_v2.egg-info/SOURCES.txt
+streamlit_node_editor_v2.egg-info/dependency_links.txt
+streamlit_node_editor_v2.egg-info/requires.txt
+streamlit_node_editor_v2.egg-info/top_level.txt
+streamlit_node_editor_v2/frontend/build/index-CNuubZgV.js

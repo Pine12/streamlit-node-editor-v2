@@ -1,0 +1,2 @@
+recursive-include streamlit_node_editor_v2/frontend/build *
+include pyproject.toml

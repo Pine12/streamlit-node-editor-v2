@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/home/efs/streamlit-node-editor-v2/.venv/bin/python": true,
+        "/^cd /home/efs/streamlit-node-editor-v2/streamlit_node_editor_v2/frontend && sed -n '100,225p' node_modules/@streamlit/component-v2-lib/dist/types\\.d\\.ts && printf '%s\\\\n' '=== package version ===' && node -p \"require\\('\\./node_modules/@streamlit/component-v2-lib/package\\.json'\\)\\.version\" && printf '%s\\\\n' '=== exports ===' && cat node_modules/@streamlit/component-v2-lib/dist/index\\.d\\.ts$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
